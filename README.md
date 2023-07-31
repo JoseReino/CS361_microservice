@@ -1,1 +1,1 @@
-# CS361_microservice
+# Geolocator Microservice
