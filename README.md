@@ -20,3 +20,7 @@ Example of a response shown on the console when the location specified is 'Chica
 A response can also be shown on the browser. Use same format as link shown in the picture.
 
 ![response_example3](https://github.com/JoseReino/CS361_microservice/assets/122329580/4c40a798-a908-45b4-bc25-3c3cff6a9253)
+
+## UML Sequence Diagaram for Geolocator MS
+
+![Geolocator_UML](https://github.com/JoseReino/CS361_microservice/assets/122329580/51e7134a-65e8-466a-b323-e4dce90d91ed)
