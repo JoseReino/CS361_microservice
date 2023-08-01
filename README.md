@@ -6,7 +6,8 @@ CS361
 To request data... use this code from request.js.
 (See comments on image...)
 
-![request_example1](https://github.com/JoseReino/CS361_microservice/assets/122329580/bbfc3ddb-9eda-4779-8672-12d8c4810777)
+![revision](https://github.com/JoseReino/CS361_microservice/assets/122329580/afb95edb-3748-4a19-90e0-e02966fcda80)
+
 
 ## Response
 
