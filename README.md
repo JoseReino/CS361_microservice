@@ -1,6 +1,6 @@
 # Geolocator Microservice
-Jose Reloj
-CS361
+Jose Reloj <br />
+CS361 <br />
 
 ## Request
 To request data...
