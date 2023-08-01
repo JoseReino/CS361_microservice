@@ -12,7 +12,8 @@ To request data... use this code from request.js.
 
 The getCoordi() function will communicate with the OpenWeatherMap API to get the coordinates for the specified location. You should change the link and include with your own API key.
 
-![response_example1](https://github.com/JoseReino/CS361_microservice/assets/122329580/1576859c-c12c-4f22-a027-7be228d7a37b)
+![redo](https://github.com/JoseReino/CS361_microservice/assets/122329580/a0f15c44-1214-4de3-9f39-4aee2ec755dd)
+
 
 Example of a response shown on the console when the location specified is 'Chicago': 
 
